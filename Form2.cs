@@ -52,7 +52,8 @@ namespace ДЗ_5_2_
             label1.TabIndex = 0;
             label1.Text = "Наименование";
             Controls.Add(label1);
-            // 
+            // это комит с Github 
+           
             // btnEditAddF2
             // 
             btnEditAddF2.Location = new System.Drawing.Point(15, 258);
