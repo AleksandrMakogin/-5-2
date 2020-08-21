@@ -178,7 +178,7 @@ namespace ДЗ_5_2_
                 productStock.Items.Insert(tempNum, tempProduct);
                 productStock.SelectedIndex = tempNum;
             }
-            catch (Exception)
+            catch (Exception) // обработка исключений 
             {
                 MessageBox.Show("Вы не выбрали товар!", "", MessageBoxButtons.OK, MessageBoxIcon.Information);
             }
