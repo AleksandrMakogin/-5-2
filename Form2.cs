@@ -196,5 +196,5 @@ namespace ДЗ_5_2_
             }
             this.DialogResult = DialogResult.OK;
         }
-    }
+    } // конец прграммы 
 }
