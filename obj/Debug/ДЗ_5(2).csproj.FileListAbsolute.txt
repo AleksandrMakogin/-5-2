@@ -1,0 +1,9 @@
+C:\Users\Xiaomi\source\repos\ДЗ_5(2)\bin\Debug\ДЗ_5(2).exe.config
+C:\Users\Xiaomi\source\repos\ДЗ_5(2)\bin\Debug\ДЗ_5(2).exe
+C:\Users\Xiaomi\source\repos\ДЗ_5(2)\bin\Debug\ДЗ_5(2).pdb
+C:\Users\Xiaomi\source\repos\ДЗ_5(2)\obj\Debug\ДЗ_5(2).csprojAssemblyReference.cache
+C:\Users\Xiaomi\source\repos\ДЗ_5(2)\obj\Debug\ДЗ_5_2_.Properties.Resources.resources
+C:\Users\Xiaomi\source\repos\ДЗ_5(2)\obj\Debug\ДЗ_5(2).csproj.GenerateResource.cache
+C:\Users\Xiaomi\source\repos\ДЗ_5(2)\obj\Debug\ДЗ_5(2).csproj.CoreCompileInputs.cache
+C:\Users\Xiaomi\source\repos\ДЗ_5(2)\obj\Debug\ДЗ_5(2).exe
+C:\Users\Xiaomi\source\repos\ДЗ_5(2)\obj\Debug\ДЗ_5(2).pdb
