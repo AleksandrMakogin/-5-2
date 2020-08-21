@@ -39,6 +39,7 @@ namespace ДЗ_5_2_
             this.BackColor = Color.Beige;
             this.Text = "Учет товара ";
 
+            // Сщздаем груп бокс 
             // ===============================================
 
             this.groupBox1.SuspendLayout();
